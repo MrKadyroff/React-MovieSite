@@ -32,7 +32,7 @@ class Searcher extends React.Component {
                         onKeyDown={this.handleKey}
                     />
                     <button
-                        class='btn waves-effect waves-light'
+                        className='btn waves-effect waves-light'
                         type='submit'
                         name='action'
                         onClick={() =>
